@@ -1,2 +1,0 @@
-create database SpringBootDemo
-use database springBootDemo
